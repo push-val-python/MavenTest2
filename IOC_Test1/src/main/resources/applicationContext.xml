@@ -7,5 +7,4 @@
     <bean id="sayableCaller" class="com.pushval.tests.SayableCaller" scope="singleton">
         <property name="sayable" ref="sayableImpl"></property>
     </bean>
-
 </beans>
